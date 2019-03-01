@@ -1,0 +1,7 @@
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="io.github.ichonal.sdkkochava">
+<uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>
+  

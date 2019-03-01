@@ -1,0 +1,25 @@
+{
+  "name": "react-native-sdk-kochava",
+  "version": "1.0.0",
+  "description": "Kochava Sdk for React Native",
+  "types": "index.d.ts",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "sdk",
+    "kochava"
+  ],
+  "author": "Wei Jian <wei.jian.coder+github@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/iChonal/react-native-sdk-kochava#readme",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iChonal/react-native-sdk-kochava.git"
+  }
+}
