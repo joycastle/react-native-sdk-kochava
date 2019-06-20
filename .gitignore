@@ -34,9 +34,14 @@ project.xcworkspace
 # Android/IntelliJ
 #
 build/
+bin/
 .idea
 local.properties
 *.iml
+.gradle
+.classpath
+.project
+.settings
 
 # BUCK
 buck-out/
